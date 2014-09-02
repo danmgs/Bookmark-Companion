@@ -1,0 +1,6 @@
+#home .container,
+#profile .container,
+#message .container
+{
+	padding-top: 20px;
+}
